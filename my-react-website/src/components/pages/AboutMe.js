@@ -15,7 +15,7 @@ export default function AboutMe() {
   <img id="profile" src={require("../images/Profile.jpg")} alt="Pofile" width="300" height="400"/>
     <div>
       <a href="https://github.com/suthansivekumaar"><img id="github" src={require("../images/GitHub.jpg")} alt="GitHub" width="100" height="100"/></a>
-      <a href="mailto: ssivekum@uwaterloo.ca"><img id="email" src={require("../images/Email.jpg")} alt="Email" width="100" height="100"/></a>
+      <a href="mailto:ssivekum@uwaterloo.ca"><img id="email" src={require("../images/Email.jpg")} alt="Email" width="100" height="100"/></a>
       <a href="https://www.linkedin.com/in/suthan-sivekumaar"><img id="linkedin" src={require("../images/LinkedIn.png")} alt="LinkedIn" width="70" height="70"/></a>
     </div>
   </div>
